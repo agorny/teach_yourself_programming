@@ -7,6 +7,10 @@
 - [Learning How to Learn Coursera](https://www.coursera.org/learn/learning-how-to-learn/)
 - Learning How to Learn Talk [(short version, ](https://youtu.be/O96fE1E-rf8) [long version)](https://youtu.be/vd2dtkMINIw)
 - [Things I Don’t Know as of 2018 - Dan Abramov](https://overreacted.io/things-i-dont-know-as-of-2018/)
+- [The Power of Chunking](https://www.dashe.com/blog/learning/chunking-memory-retention/)
+- [I'm a very slow thinker](https://sivers.org/slow)
+- [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
+- [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
 
 Polecane książki:
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
