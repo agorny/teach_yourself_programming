@@ -21,3 +21,11 @@ Polecane książki:
 - [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 - [Structure and Interpretation of Computer Programs](https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871)
 - [Patterns of Enterprise Application Architecture](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+
+
+Polecane serwisy z kursami: 
+- [Coursera](https://www.coursera.org/)
+- [Khanacademy](https://www.khanacademy.org/)
+- [Udemy](https://www.udemy.com/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/)
+- [Codeacademy](https://www.codecademy.com/)
