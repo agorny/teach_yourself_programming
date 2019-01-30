@@ -21,6 +21,7 @@ Polecane książki:
 - [Refactoring](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM)
 - [Test Driven Development](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
+- [Practical Unit Testing with JUnit and Mockito](https://www.amazon.com/Practical-Unit-Testing-JUnit-Mockito/dp/8393489393)
 - [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0201616416)
 - [The Elements of Programming Style](https://www.amazon.com/Elements-Programming-Style-Brian-Kernighan/dp/0070342075)
 - [JavaScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
