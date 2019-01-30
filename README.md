@@ -11,6 +11,7 @@
 - [I'm a very slow thinker](https://sivers.org/slow)
 - [Stop Learning Frameworks](https://sizovs.net/2018/12/17/stop-learning-frameworks/)
 - [The Feynman Technique: The Best Way to Learn Anything](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
+- [Read it again - Tomek Kaczanowski](https://medium.com/@kaczanowski.tomek/read-it-again-95cc66a34a1c)
 
 Polecane książki:
 - [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
